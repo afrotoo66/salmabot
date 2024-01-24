@@ -1,0 +1,30 @@
+{
+    "name": "ᯓ 𝚂𝙾𝚞𝚁𝚂 𝙰𝙵𝚁𝙾𝙾𝚃𝙾 𝄋",
+    "description": "سورس عفرتو لصنع بوتات حمايه بجميع المميزات❤️",
+    "repository": "https://github.com/afrotoo66/salmabot",
+    "logo": "https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "mongodb",
+    "Group-Manager-bot",
+    "pyrogram"
+    ],
+    "website": "https://t.me/UI_VM",
+    "success_url": "https://t.me/UI_VM",
+    "stack": "container",
+    "env": {
+        "Token": {
+            "description": "ضع توكن بوتك  @BotFather",
+            "required": true
+        },      
+        "idSudo": {
+            "description": "حط ايدي مطور البوت",
+            "required": true
+        }
+    }
+}
+
+
+
